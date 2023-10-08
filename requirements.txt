@@ -1,0 +1,14 @@
+tqdm
+matplotlib
+seaborn
+japanize-matplotlib
+scikit-learn
+scikit-image
+jupyter==1.0.0
+jupyterlab==3.5.2
+opencv-python
+opencv-contrib-python
+ipyplot
+matplotlib-venn
+timm
+pytesseract
